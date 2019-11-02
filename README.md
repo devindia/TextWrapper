@@ -1,10 +1,10 @@
-#About TextWrapper
+# About TextWrapper
 
 This package helps you to implement "Read More" or "See More" and "Read Less" or "See Less" on a long string while displaying on UI.
 
-#installation
+# installation
 
-`npm i TextWrapperSeeMore --save`
+`npm i TextWrapper --save`
 
 Then...
 
@@ -51,7 +51,7 @@ here longText.slice(0,200) means only first 200 character will apear on UI. Rest
 
 ```
 
-##options
+## options
 
-* *textWrapper.seeMore(element_id1,element_id2)
-* *textWrapper.seeLess(element_id1,element_id2)
+* textWrapper.seeMore(element_id1,element_id2)
+* textWrapper.seeLess(element_id1,element_id2)
