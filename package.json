@@ -1,0 +1,27 @@
+{
+  "name": "angular-textwrapper",
+  "version": "1.1.0",
+  "description": "Helps you to implement Read More and Read Less functionality on a long Text or String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devindia/TextWrapper.git"
+  },
+  "keywords": [
+    "Read More",
+    "Read Less",
+    "See More",
+    "See Less",
+    "Text Wrapper",
+    "Angular Text Wrapper" 
+  ],
+  "author": "Debasish Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devindia/TextWrapper/issues"
+  },
+  "homepage": "https://github.com/devindia/TextWrapper#readme"
+}
