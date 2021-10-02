@@ -32,11 +32,11 @@ export class DemoComponent implements OnInit {
       this.readLess('span_id1','span_id2');
     }
 
-    readMore(span_id1,span_id2){
+    readMore(span_id1:any,span_id2:any){
       textwrapper.seeMore(span_id1,span_id2);
     }
 
-    readLess(span_id1,span_id2){
+    readLess(span_id1:any,span_id2:any){
       textwrapper.seeLess(span_id1,span_id2);
     }
 }
