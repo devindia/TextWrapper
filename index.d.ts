@@ -8,9 +8,9 @@
  */
 
 declare namespace AngularTextWrapper {
-    function seeMore(id1:any , id2:any): void;
-    function seeLess(id1:any , id2:any): void;
-    function letterLimit(text:any,no:any):void;
+    function seeMore(id1: any, id2: any): void;
+    function seeLess(id1: any, id2: any): void;
+    function letterLimit(text: any, no: any): void;
 }
 
 declare global {
