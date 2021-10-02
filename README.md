@@ -6,6 +6,10 @@ This package helps you to implement "Read More" or "See More" and "Read Less" or
 
 Type definitions have been added. It will work seamless with latest angular versions.
 
+# Demo
+
+![ReadMore_ReadLess](https://user-images.githubusercontent.com/20151781/135718540-ccba9b6f-04e7-4a33-82ef-5c388b52be76.gif)
+
 # Installation
 
 `npm i angular-textwrapper --save`
