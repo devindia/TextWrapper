@@ -55,7 +55,8 @@ in your demo.component.html file
 here longText.slice(0,200) means only first 200 character will apear on UI. Rest will apear if we click on 'Read More' 
 
 ```
-<div>
+<div style="border:1px solid;padding:2rem;width:500px;font-size:1rem">
+  <h4>Long Text:</h4>
   <span id="span_id1" >{{longText.slice(0,200)}} ... <span (click)="readMore('span_id1','span_id2')" style="cursor:pointer;color:blue">Read More</span></span>
   <span id="span_id2">{{longText}}<span (click)="readLess('span_id1','span_id2')" style="cursor:pointer;color:blue">Read Less</span></span>
 </div>
