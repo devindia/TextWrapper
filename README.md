@@ -1,8 +1,12 @@
-# About Angular-TextWrapper
+# About
 
 This package helps you to implement "Read More" or "See More" and "Read Less" or "See Less" on a long string while displaying on UI.
 
-# installation
+# Update
+
+Type definitions have been added. It will work seamless with latest angular versions.
+
+# Installation
 
 `npm i angular-textwrapper --save`
 
@@ -54,7 +58,12 @@ here longText.slice(0,200) means only first 200 character will apear on UI. Rest
 
 ```
 
-## options
+# Options
 
 * textwrapper.seeMore(element_id1,element_id2)
 * textwrapper.seeLess(element_id1,element_id2)
+
+# miscellaneous
+
+If you like this package do follow me on github.
+
